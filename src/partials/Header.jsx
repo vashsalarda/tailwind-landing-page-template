@@ -23,7 +23,7 @@ function Header() {
           <div className="flex-shrink-0 mr-4">
             {/* Logo */}
             <Link to="/" className="block" aria-label="NTC Edge">
-              <img className="w-16 h-16" viewBox="0 0 32 32" src="/src/images/edge.png" />
+              <img className="w-16 h-16" src="/src/images/edge.png" />
             </Link>
           </div>
 
