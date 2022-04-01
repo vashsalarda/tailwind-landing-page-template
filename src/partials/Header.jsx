@@ -22,8 +22,8 @@ function Header() {
           {/* Site branding */}
           <div className="flex-shrink-0 mr-4">
             {/* Logo */}
-            <Link to="/" className="block" aria-label="NTC Edge">
-              <img className="w-16 h-16" src="/src/images/edge.png" />
+            <Link to="/" className="block" aria-label="NTC EDGE">
+              <img className="w-16 h-16" src="/src/images/edge.png" width="64" height="64" alt="NTC EDGE" />
             </Link>
           </div>
 
