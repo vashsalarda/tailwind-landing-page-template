@@ -1,6 +1,7 @@
 {
-  "name": "simple-light-react",
+  "name": "ntc-edge",
   "version": "0.1.0",
+  "homepage": "https://www.ntcedge.com",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
