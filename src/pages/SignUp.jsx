@@ -49,8 +49,8 @@ function SignUp() {
                     </div>
                   </div>
                   <div className="text-sm text-gray-500 text-center mt-3">
-                    By creating an account, you agree to the <a className="underline" href="/terms-of-service">terms & conditions</a>, and our <a className="underline" href="/privacy-policy">privacy policy</a>.
-                                </div>
+                    By creating an account, you agree to the <Link className="underline" to="/terms-of-service">terms & conditions </Link>, and our <Link className="underline" to="/privacy-policy">privacy policy</Link>.
+                  </div>
                 </form>
                 <div className="flex items-center my-6">
                   <div className="border-t border-gray-300 flex-grow mr-3" aria-hidden="true"></div>
