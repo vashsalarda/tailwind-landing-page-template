@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import Header from '../partials/Header';
+import Footer from '../partials/Footer';
 
 function TermsOfService() {
   return (
@@ -19,7 +20,7 @@ function TermsOfService() {
 
               {/* Page header */}
               <div className="max-w-3xl mx-auto text-center pb-12 md:pb-10">
-                <h1 className="h2">Terms of Service - NTC EDGE</h1>
+                <h1 className="h2">Terms and Conditions - NTC EDGE</h1>
               </div>
 
               {/* Form */}
@@ -76,6 +77,8 @@ function TermsOfService() {
         </section>
 
       </main>
+
+      <Footer />
 
     </div>
   );
